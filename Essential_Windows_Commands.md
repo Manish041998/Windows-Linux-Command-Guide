@@ -447,5 +447,3 @@ perfmon /report               # Generate system diagnostics report
 3. Process investigation (`Get-Process`, `wmic process`)
 4. User activity (`Get-EventLog Security`, `net user`)
 5. Service monitoring (`Get-Service`, `sc query`)
-
-Want me to dive deeper into any specific command category?
